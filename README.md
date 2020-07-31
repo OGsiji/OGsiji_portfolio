@@ -46,7 +46,8 @@ Data Science and Analysis Portfolio
 - I performed a PCA on an Iris Flower Data Set and I got two dimensions which have the highest Variance
 - I also applied a simple Classification Algorithim on it
 
- ![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/iris.jpg)
+![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/PCA.png)
+
 
 # [Project 5: Machine Learning (Simple Logistic Regression on Titanic Data Set) : Project Overview](https://github.com/OGsiji/machine-learning-projects-codes/blob/master/titanic-simple-logistic-regression-model.ipynb)
 - Titanic Data Set is one of the most Sedomly used data Set by Data Scientist  
