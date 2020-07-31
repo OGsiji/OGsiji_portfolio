@@ -8,6 +8,7 @@ Data Science and Analysis Portfolio
 - This part is more about data analysis and fuel usage intelligence.
 - I also gave interesting insights based on my analysis
 - I suggested data preprocessing, feauture selection and Feauture Engineering options to Apply our Machine Learning algorithims succesfully.
+
   ![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/EDA%20ON%20MPG.png)
 
 
@@ -37,7 +38,7 @@ Data Science and Analysis Portfolio
 - I performed a simple linear regression to predict the stock prices based on data sets gotten from weeks before
 - I also performed a visualization technique to show the increase on the prices based on Time-Series Data Analysis of the Feautures.
 
- ![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/data%20cleaning.jpg)
+ ![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/higher-stock-prices.jpg)
 
 # [Project 4: PCA (Principal Component Analysis on Iris-Data Set) : Project Overview](https://github.com/OGsiji/machine-learning-projects-codes/blob/master/Principal%20Component%20Analysis%20Practise%20Using%20Iris%20Data%20Set.ipynb)
 - Principal Component Analysis is one of the best ways to get meaningful and effective predictions on our Data Sets
@@ -53,6 +54,7 @@ Data Science and Analysis Portfolio
 - I applied Logistic Regression which helped me predict those who survived the Ship Wreck based on my Feautures
 - I performed the Loading of libraries and datasets, Exploratory Data analysis,Feature Engineering,Training Model and predictions
 - I also got very good accuracy and score based on my data cleaning approach.
+
   ![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/titanic-1280x720.jpg)
 
 # [Project 6: Machine Learning (Classification Algorithim Performance on Advertisement Data Set) : Project Overview](https://github.com/OGsiji/machine-learning-projects-codes/blob/master/Machine%20Learning%20Practise%20using%20advertising%20Data%20Set.ipynb)
@@ -61,6 +63,7 @@ Data Science and Analysis Portfolio
 - The Advertisement data we are using for classification algorithim  is taken from UCI repository. 
 - I tuned my parameters appropraitely performing error analysis on each algorithim to check the algorithim that will give the best score
 - I realised that using Bagging Ensemble Methods (Random Forest Classifier gave me the best Scores)
+
   ![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/advertisement.jpg)
 
 # [Project 7: Machine Learning (Tunisian Fraud Detection Challenge using Machine Learning Regression Model) : Project Overview](https://github.com/OGsiji/machine-learning-projects-codes/blob/master/Tunisia%20Fraud%20Detection.ipynb)
@@ -71,6 +74,7 @@ Data Science and Analysis Portfolio
 - This will increase the operational efficiency of the tax supervision process.
 - The data we are using for EDA is the [Tunisia Data](http://www.finances.gov.tn/fr) dataset taken from Zindi.
 - I used Boosting Ensemble Methods to get better Scores
+
  ![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/MIT-Fraud-Detection-PRESS_0.jpg)
 
 # [Project 8: Machine Learning (Urban Air Pollution Prediction Hackathon using Machine Learning Regression Model) : Project Overview](https://github.com/OGsiji/machine-learning-projects-codes/blob/master/Hack%20Model.ipynb)
@@ -80,6 +84,7 @@ Data Science and Analysis Portfolio
 - My goal is to use this information to predict PM2.5 particulate matter concentration (a common measure of air quality that normally requires ground-based sensors to measure) every day for each city. 
 - The data covers the last three months, spanning hundreds of cities across the globe.
 - I used Boosting Ensemble Methods to get better Scores
+
  ![](https://github.com/OGsiji/OGsiji_portfolio/blob/master/images/urban.png)
 
 
